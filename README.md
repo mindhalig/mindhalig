@@ -1,16 +1,17 @@
-### Hi there 👋
+# 👋😄 Hi, I'm Mindhalig
 
-<!--
-**mindhalig/mindhalig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Software Engineer , Technical & Functional Odoo ERP
 
-Here are some ideas to get you started:
+more about me = 
+I am passionate about learning new things, and also passionate about project management, and programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Contact:
+
+Find me : [Twitter/X](https://twitter.com/l_gami), [LinkedIn](https://linkedin.com/in/mindhalig), [Telegram](https://t.me/l_gami), [Facebook](https://www.facebook.com/mindh.killer.anthem), [Instagram](https://instagram.com/l_gami),  [Read.cv](https://read.cv/mindhalig)
+
+Send me a message
+kontak.dhalig@gmail.com
+
+Transform your ideas into reality
+Enjoy your day!
