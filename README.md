@@ -1,17 +1,33 @@
 # 👋😄 Hi, I'm Mindhalig
 
-> Software Engineer , Technical & Functional Odoo ERP
+> 💻 ERP Software Developer
 
-more about me =<br/>
-I am passionate about learning new things, and also passionate about project management, and programming.
+---
+
+## 🧠 About Me
+
+I’m passionate about learning new things, project management, and building practical software through programming. I enjoy transforming ideas into real solutions.
+
+---
+
+## 🌐 Find Me Online
+
+- 🐦 [Twitter / X](https://twitter.com/l_gami)  
+- 💼 [LinkedIn](https://linkedin.com/in/mindhalig)  
+- 💬 [Telegram](https://t.me/l_gami)  
+- 📘 [Facebook](https://www.facebook.com/mindh.killer.anthem)  
+- 📸 [Instagram](https://instagram.com/l_gami)  
+- 📄 [Read.cv](https://read.cv/mindhalig)
+
+---
+
+## ✉️ Contact
+
+📬 Email me at: **kontak.dhalig@gmail.com**
+
+---
 
 
 
-
-Find me :<br/> [Twitter/X](https://twitter.com/l_gami), [LinkedIn](https://linkedin.com/in/mindhalig), [Telegram](https://t.me/l_gami), [Facebook](https://www.facebook.com/mindh.killer.anthem), [Instagram](https://instagram.com/l_gami),  [Read.cv](https://read.cv/mindhalig)
-
-Send me a message<br/>
-kontak.dhalig@gmail.com
-
-Transform your ideas into reality<br/>
-Enjoy your day!
+**Transform your ideas into reality.**  
+_Enjoy your day!_
