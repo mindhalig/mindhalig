@@ -1,7 +1,7 @@
 # 👋😄 Hi, I'm Mindhalig
 
 > 💻 ERP Software Developer
-https://kontakdhalig.com
+
 ---
 
 ## 🧠 About Me
@@ -18,6 +18,7 @@ I’m passionate about learning new things, project management, and building pra
 - 📘 [Facebook](https://www.facebook.com/mindh.killer.anthem)  
 - 📸 [Instagram](https://instagram.com/l_gami)  
 - 📄 [Read.cv](https://read.cv/mindhalig)
+- [kontakdhalig.com](https://kontakdhalig.com)
 
 ---
 
